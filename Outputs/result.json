@@ -1,0 +1,3386 @@
+[
+    {
+        "frame": 6,
+        "timestamp": 0.24,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 9,
+        "timestamp": 0.36,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 18,
+        "timestamp": 0.72,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 21,
+        "timestamp": 0.84,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 24,
+        "timestamp": 0.96,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 27,
+        "timestamp": 1.08,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 27,
+        "timestamp": 1.08,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 30,
+        "timestamp": 1.2,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 36,
+        "timestamp": 1.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 39,
+        "timestamp": 1.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 42,
+        "timestamp": 1.68,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 45,
+        "timestamp": 1.8,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 48,
+        "timestamp": 1.92,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 51,
+        "timestamp": 2.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 54,
+        "timestamp": 2.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 57,
+        "timestamp": 2.28,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 57,
+        "timestamp": 2.28,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 60,
+        "timestamp": 2.4,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 69,
+        "timestamp": 2.76,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 72,
+        "timestamp": 2.88,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 75,
+        "timestamp": 3.0,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 78,
+        "timestamp": 3.12,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 78,
+        "timestamp": 3.12,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 81,
+        "timestamp": 3.24,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 84,
+        "timestamp": 3.36,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 87,
+        "timestamp": 3.48,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 90,
+        "timestamp": 3.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 108,
+        "timestamp": 4.32,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 111,
+        "timestamp": 4.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 114,
+        "timestamp": 4.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 117,
+        "timestamp": 4.68,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 120,
+        "timestamp": 4.8,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 123,
+        "timestamp": 4.92,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 126,
+        "timestamp": 5.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 126,
+        "timestamp": 5.04,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 129,
+        "timestamp": 5.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 132,
+        "timestamp": 5.28,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 135,
+        "timestamp": 5.4,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 138,
+        "timestamp": 5.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 141,
+        "timestamp": 5.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 144,
+        "timestamp": 5.76,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 147,
+        "timestamp": 5.88,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 150,
+        "timestamp": 6.0,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 153,
+        "timestamp": 6.12,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 156,
+        "timestamp": 6.24,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 156,
+        "timestamp": 6.24,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 159,
+        "timestamp": 6.36,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 162,
+        "timestamp": 6.48,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 165,
+        "timestamp": 6.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 168,
+        "timestamp": 6.72,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 171,
+        "timestamp": 6.84,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 174,
+        "timestamp": 6.96,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 177,
+        "timestamp": 7.08,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 177,
+        "timestamp": 7.08,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 180,
+        "timestamp": 7.2,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 183,
+        "timestamp": 7.32,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 189,
+        "timestamp": 7.56,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 192,
+        "timestamp": 7.68,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 195,
+        "timestamp": 7.8,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 198,
+        "timestamp": 7.92,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 201,
+        "timestamp": 8.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 204,
+        "timestamp": 8.16,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 207,
+        "timestamp": 8.28,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 213,
+        "timestamp": 8.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 216,
+        "timestamp": 8.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 219,
+        "timestamp": 8.76,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 222,
+        "timestamp": 8.88,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 222,
+        "timestamp": 8.88,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 225,
+        "timestamp": 9.0,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 231,
+        "timestamp": 9.24,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 234,
+        "timestamp": 9.36,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 234,
+        "timestamp": 9.36,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 240,
+        "timestamp": 9.6,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 243,
+        "timestamp": 9.72,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 243,
+        "timestamp": 9.72,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 246,
+        "timestamp": 9.84,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 258,
+        "timestamp": 10.32,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 261,
+        "timestamp": 10.44,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 264,
+        "timestamp": 10.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 267,
+        "timestamp": 10.68,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 270,
+        "timestamp": 10.8,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 273,
+        "timestamp": 10.92,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 276,
+        "timestamp": 11.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 282,
+        "timestamp": 11.28,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 285,
+        "timestamp": 11.4,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 300,
+        "timestamp": 12.0,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 327,
+        "timestamp": 13.08,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 345,
+        "timestamp": 13.8,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 351,
+        "timestamp": 14.04,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 354,
+        "timestamp": 14.16,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 354,
+        "timestamp": 14.16,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 357,
+        "timestamp": 14.28,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 360,
+        "timestamp": 14.4,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 360,
+        "timestamp": 14.4,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 363,
+        "timestamp": 14.52,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 366,
+        "timestamp": 14.64,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 369,
+        "timestamp": 14.76,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 372,
+        "timestamp": 14.88,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 375,
+        "timestamp": 15.0,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 375,
+        "timestamp": 15.0,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 378,
+        "timestamp": 15.12,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 381,
+        "timestamp": 15.24,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 384,
+        "timestamp": 15.36,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 387,
+        "timestamp": 15.48,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 387,
+        "timestamp": 15.48,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 390,
+        "timestamp": 15.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 393,
+        "timestamp": 15.72,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 393,
+        "timestamp": 15.72,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 396,
+        "timestamp": 15.84,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 399,
+        "timestamp": 15.96,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 402,
+        "timestamp": 16.08,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 405,
+        "timestamp": 16.2,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 411,
+        "timestamp": 16.44,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 411,
+        "timestamp": 16.44,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 414,
+        "timestamp": 16.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 423,
+        "timestamp": 16.92,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 423,
+        "timestamp": 16.92,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 426,
+        "timestamp": 17.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 429,
+        "timestamp": 17.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 432,
+        "timestamp": 17.28,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 432,
+        "timestamp": 17.28,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 435,
+        "timestamp": 17.4,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 438,
+        "timestamp": 17.52,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 441,
+        "timestamp": 17.64,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 444,
+        "timestamp": 17.76,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 447,
+        "timestamp": 17.88,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 450,
+        "timestamp": 18.0,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 453,
+        "timestamp": 18.12,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 456,
+        "timestamp": 18.24,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 459,
+        "timestamp": 18.36,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 462,
+        "timestamp": 18.48,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 465,
+        "timestamp": 18.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 468,
+        "timestamp": 18.72,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 468,
+        "timestamp": 18.72,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 471,
+        "timestamp": 18.84,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 474,
+        "timestamp": 18.96,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 477,
+        "timestamp": 19.08,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 480,
+        "timestamp": 19.2,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 480,
+        "timestamp": 19.2,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 483,
+        "timestamp": 19.32,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 486,
+        "timestamp": 19.44,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 489,
+        "timestamp": 19.56,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 492,
+        "timestamp": 19.68,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 495,
+        "timestamp": 19.8,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 498,
+        "timestamp": 19.92,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 501,
+        "timestamp": 20.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 504,
+        "timestamp": 20.16,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 507,
+        "timestamp": 20.28,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 507,
+        "timestamp": 20.28,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 510,
+        "timestamp": 20.4,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 513,
+        "timestamp": 20.52,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 516,
+        "timestamp": 20.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 519,
+        "timestamp": 20.76,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 522,
+        "timestamp": 20.88,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 525,
+        "timestamp": 21.0,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 528,
+        "timestamp": 21.12,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 531,
+        "timestamp": 21.24,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 534,
+        "timestamp": 21.36,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 537,
+        "timestamp": 21.48,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 540,
+        "timestamp": 21.6,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 543,
+        "timestamp": 21.72,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 546,
+        "timestamp": 21.84,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 549,
+        "timestamp": 21.96,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 552,
+        "timestamp": 22.08,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 555,
+        "timestamp": 22.2,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 555,
+        "timestamp": 22.2,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 573,
+        "timestamp": 22.92,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 576,
+        "timestamp": 23.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 579,
+        "timestamp": 23.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 582,
+        "timestamp": 23.28,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 585,
+        "timestamp": 23.4,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 588,
+        "timestamp": 23.52,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 591,
+        "timestamp": 23.64,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 591,
+        "timestamp": 23.64,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 594,
+        "timestamp": 23.76,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 615,
+        "timestamp": 24.6,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 618,
+        "timestamp": 24.72,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 621,
+        "timestamp": 24.84,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 624,
+        "timestamp": 24.96,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 639,
+        "timestamp": 25.56,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 642,
+        "timestamp": 25.68,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 645,
+        "timestamp": 25.8,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 648,
+        "timestamp": 25.92,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 651,
+        "timestamp": 26.04,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 651,
+        "timestamp": 26.04,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 666,
+        "timestamp": 26.64,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 669,
+        "timestamp": 26.76,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 672,
+        "timestamp": 26.88,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 675,
+        "timestamp": 27.0,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 678,
+        "timestamp": 27.12,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 681,
+        "timestamp": 27.24,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 684,
+        "timestamp": 27.36,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 684,
+        "timestamp": 27.36,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 687,
+        "timestamp": 27.48,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 693,
+        "timestamp": 27.72,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 699,
+        "timestamp": 27.96,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 705,
+        "timestamp": 28.2,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 708,
+        "timestamp": 28.32,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 711,
+        "timestamp": 28.44,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 723,
+        "timestamp": 28.92,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 726,
+        "timestamp": 29.04,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 729,
+        "timestamp": 29.16,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 732,
+        "timestamp": 29.28,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 732,
+        "timestamp": 29.28,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 735,
+        "timestamp": 29.4,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 738,
+        "timestamp": 29.52,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 741,
+        "timestamp": 29.64,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 744,
+        "timestamp": 29.76,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 747,
+        "timestamp": 29.88,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 747,
+        "timestamp": 29.88,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 750,
+        "timestamp": 30.0,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 753,
+        "timestamp": 30.12,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 756,
+        "timestamp": 30.24,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 756,
+        "timestamp": 30.24,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 759,
+        "timestamp": 30.36,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 771,
+        "timestamp": 30.84,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 774,
+        "timestamp": 30.96,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 777,
+        "timestamp": 31.08,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 780,
+        "timestamp": 31.2,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 783,
+        "timestamp": 31.32,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 786,
+        "timestamp": 31.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 789,
+        "timestamp": 31.56,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 789,
+        "timestamp": 31.56,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 792,
+        "timestamp": 31.68,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 795,
+        "timestamp": 31.8,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 795,
+        "timestamp": 31.8,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 798,
+        "timestamp": 31.92,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 798,
+        "timestamp": 31.92,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 801,
+        "timestamp": 32.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 804,
+        "timestamp": 32.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 807,
+        "timestamp": 32.28,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 810,
+        "timestamp": 32.4,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 810,
+        "timestamp": 32.4,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 813,
+        "timestamp": 32.52,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 816,
+        "timestamp": 32.64,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 816,
+        "timestamp": 32.64,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 831,
+        "timestamp": 33.24,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 837,
+        "timestamp": 33.48,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 840,
+        "timestamp": 33.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 843,
+        "timestamp": 33.72,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 846,
+        "timestamp": 33.84,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 849,
+        "timestamp": 33.96,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 852,
+        "timestamp": 34.08,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 855,
+        "timestamp": 34.2,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 858,
+        "timestamp": 34.32,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 861,
+        "timestamp": 34.44,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 867,
+        "timestamp": 34.68,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 870,
+        "timestamp": 34.8,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 873,
+        "timestamp": 34.92,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 885,
+        "timestamp": 35.4,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 888,
+        "timestamp": 35.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 891,
+        "timestamp": 35.64,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 900,
+        "timestamp": 36.0,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 909,
+        "timestamp": 36.36,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 912,
+        "timestamp": 36.48,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 915,
+        "timestamp": 36.6,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 918,
+        "timestamp": 36.72,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 918,
+        "timestamp": 36.72,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 921,
+        "timestamp": 36.84,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 924,
+        "timestamp": 36.96,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 924,
+        "timestamp": 36.96,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 927,
+        "timestamp": 37.08,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 930,
+        "timestamp": 37.2,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 936,
+        "timestamp": 37.44,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 939,
+        "timestamp": 37.56,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 942,
+        "timestamp": 37.68,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 945,
+        "timestamp": 37.8,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 945,
+        "timestamp": 37.8,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 948,
+        "timestamp": 37.92,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 948,
+        "timestamp": 37.92,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 951,
+        "timestamp": 38.04,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 960,
+        "timestamp": 38.4,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 963,
+        "timestamp": 38.52,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 966,
+        "timestamp": 38.64,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 966,
+        "timestamp": 38.64,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 969,
+        "timestamp": 38.76,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 975,
+        "timestamp": 39.0,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 981,
+        "timestamp": 39.24,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 984,
+        "timestamp": 39.36,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 984,
+        "timestamp": 39.36,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 987,
+        "timestamp": 39.48,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 990,
+        "timestamp": 39.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 990,
+        "timestamp": 39.6,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 993,
+        "timestamp": 39.72,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 996,
+        "timestamp": 39.84,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 999,
+        "timestamp": 39.96,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 999,
+        "timestamp": 39.96,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1002,
+        "timestamp": 40.08,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1005,
+        "timestamp": 40.2,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1008,
+        "timestamp": 40.32,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1008,
+        "timestamp": 40.32,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1011,
+        "timestamp": 40.44,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1014,
+        "timestamp": 40.56,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1023,
+        "timestamp": 40.92,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1026,
+        "timestamp": 41.04,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1029,
+        "timestamp": 41.16,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1032,
+        "timestamp": 41.28,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1035,
+        "timestamp": 41.4,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1038,
+        "timestamp": 41.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1038,
+        "timestamp": 41.52,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1041,
+        "timestamp": 41.64,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1044,
+        "timestamp": 41.76,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1044,
+        "timestamp": 41.76,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1047,
+        "timestamp": 41.88,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1050,
+        "timestamp": 42.0,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1053,
+        "timestamp": 42.12,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1053,
+        "timestamp": 42.12,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1068,
+        "timestamp": 42.72,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1071,
+        "timestamp": 42.84,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1071,
+        "timestamp": 42.84,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1080,
+        "timestamp": 43.2,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1083,
+        "timestamp": 43.32,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1086,
+        "timestamp": 43.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1089,
+        "timestamp": 43.56,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1092,
+        "timestamp": 43.68,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1095,
+        "timestamp": 43.8,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1098,
+        "timestamp": 43.92,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1110,
+        "timestamp": 44.4,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1113,
+        "timestamp": 44.52,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1116,
+        "timestamp": 44.64,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1122,
+        "timestamp": 44.88,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1125,
+        "timestamp": 45.0,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1128,
+        "timestamp": 45.12,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1131,
+        "timestamp": 45.24,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1134,
+        "timestamp": 45.36,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1137,
+        "timestamp": 45.48,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1140,
+        "timestamp": 45.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1143,
+        "timestamp": 45.72,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1146,
+        "timestamp": 45.84,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1146,
+        "timestamp": 45.84,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1149,
+        "timestamp": 45.96,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1152,
+        "timestamp": 46.08,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1155,
+        "timestamp": 46.2,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1158,
+        "timestamp": 46.32,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1161,
+        "timestamp": 46.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1164,
+        "timestamp": 46.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1167,
+        "timestamp": 46.68,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1170,
+        "timestamp": 46.8,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1173,
+        "timestamp": 46.92,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1176,
+        "timestamp": 47.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1179,
+        "timestamp": 47.16,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1182,
+        "timestamp": 47.28,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1185,
+        "timestamp": 47.4,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1188,
+        "timestamp": 47.52,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1191,
+        "timestamp": 47.64,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1194,
+        "timestamp": 47.76,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1197,
+        "timestamp": 47.88,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1200,
+        "timestamp": 48.0,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1203,
+        "timestamp": 48.12,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1206,
+        "timestamp": 48.24,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1209,
+        "timestamp": 48.36,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1209,
+        "timestamp": 48.36,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1212,
+        "timestamp": 48.48,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1215,
+        "timestamp": 48.6,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1218,
+        "timestamp": 48.72,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1221,
+        "timestamp": 48.84,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1224,
+        "timestamp": 48.96,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1224,
+        "timestamp": 48.96,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1227,
+        "timestamp": 49.08,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1230,
+        "timestamp": 49.2,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1233,
+        "timestamp": 49.32,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1236,
+        "timestamp": 49.44,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1236,
+        "timestamp": 49.44,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1248,
+        "timestamp": 49.92,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1257,
+        "timestamp": 50.28,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1263,
+        "timestamp": 50.52,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1269,
+        "timestamp": 50.76,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1272,
+        "timestamp": 50.88,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1275,
+        "timestamp": 51.0,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1284,
+        "timestamp": 51.36,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1287,
+        "timestamp": 51.48,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1290,
+        "timestamp": 51.6,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1293,
+        "timestamp": 51.72,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1296,
+        "timestamp": 51.84,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1299,
+        "timestamp": 51.96,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1299,
+        "timestamp": 51.96,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1305,
+        "timestamp": 52.2,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1308,
+        "timestamp": 52.32,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1311,
+        "timestamp": 52.44,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1314,
+        "timestamp": 52.56,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1314,
+        "timestamp": 52.56,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1317,
+        "timestamp": 52.68,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1320,
+        "timestamp": 52.8,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1323,
+        "timestamp": 52.92,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1326,
+        "timestamp": 53.04,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1329,
+        "timestamp": 53.16,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1332,
+        "timestamp": 53.28,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1335,
+        "timestamp": 53.4,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1365,
+        "timestamp": 54.6,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1368,
+        "timestamp": 54.72,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1368,
+        "timestamp": 54.72,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1371,
+        "timestamp": 54.84,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1374,
+        "timestamp": 54.96,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1377,
+        "timestamp": 55.08,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1380,
+        "timestamp": 55.2,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1383,
+        "timestamp": 55.32,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1383,
+        "timestamp": 55.32,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1386,
+        "timestamp": 55.44,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1389,
+        "timestamp": 55.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1389,
+        "timestamp": 55.56,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1392,
+        "timestamp": 55.68,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1401,
+        "timestamp": 56.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1404,
+        "timestamp": 56.16,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1407,
+        "timestamp": 56.28,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1410,
+        "timestamp": 56.4,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1416,
+        "timestamp": 56.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1425,
+        "timestamp": 57.0,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1428,
+        "timestamp": 57.12,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1431,
+        "timestamp": 57.24,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1434,
+        "timestamp": 57.36,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1434,
+        "timestamp": 57.36,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1437,
+        "timestamp": 57.48,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1440,
+        "timestamp": 57.6,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1443,
+        "timestamp": 57.72,
+        "shot_type": "Smash",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1443,
+        "timestamp": 57.72,
+        "shot_type": "Bounce",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1446,
+        "timestamp": 57.84,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1449,
+        "timestamp": 57.96,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1452,
+        "timestamp": 58.08,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1455,
+        "timestamp": 58.2,
+        "shot_type": "Backhand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1458,
+        "timestamp": 58.32,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1461,
+        "timestamp": 58.44,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1464,
+        "timestamp": 58.56,
+        "shot_type": "Forehand",
+        "direction": "Straight"
+    },
+    {
+        "frame": 1488,
+        "timestamp": 59.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1491,
+        "timestamp": 59.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1494,
+        "timestamp": 59.76,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1497,
+        "timestamp": 59.88,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1500,
+        "timestamp": 60.0,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1503,
+        "timestamp": 60.12,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1506,
+        "timestamp": 60.24,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1509,
+        "timestamp": 60.36,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1512,
+        "timestamp": 60.48,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1515,
+        "timestamp": 60.6,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1518,
+        "timestamp": 60.72,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1521,
+        "timestamp": 60.84,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1569,
+        "timestamp": 62.76,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1572,
+        "timestamp": 62.88,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1575,
+        "timestamp": 63.0,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1587,
+        "timestamp": 63.48,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1590,
+        "timestamp": 63.6,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1593,
+        "timestamp": 63.72,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1596,
+        "timestamp": 63.84,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1599,
+        "timestamp": 63.96,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1602,
+        "timestamp": 64.08,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1605,
+        "timestamp": 64.2,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1605,
+        "timestamp": 64.2,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1608,
+        "timestamp": 64.32,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1608,
+        "timestamp": 64.32,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1611,
+        "timestamp": 64.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1614,
+        "timestamp": 64.56,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1617,
+        "timestamp": 64.68,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1620,
+        "timestamp": 64.8,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1623,
+        "timestamp": 64.92,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1626,
+        "timestamp": 65.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1629,
+        "timestamp": 65.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1632,
+        "timestamp": 65.28,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1635,
+        "timestamp": 65.4,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1638,
+        "timestamp": 65.52,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1641,
+        "timestamp": 65.64,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1746,
+        "timestamp": 69.84,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1749,
+        "timestamp": 69.96,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1749,
+        "timestamp": 69.96,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1752,
+        "timestamp": 70.08,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1752,
+        "timestamp": 70.08,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1755,
+        "timestamp": 70.2,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1755,
+        "timestamp": 70.2,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1758,
+        "timestamp": 70.32,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1758,
+        "timestamp": 70.32,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1761,
+        "timestamp": 70.44,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1761,
+        "timestamp": 70.44,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1764,
+        "timestamp": 70.56,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1764,
+        "timestamp": 70.56,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1785,
+        "timestamp": 71.4,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1788,
+        "timestamp": 71.52,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1791,
+        "timestamp": 71.64,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1794,
+        "timestamp": 71.76,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1797,
+        "timestamp": 71.88,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1800,
+        "timestamp": 72.0,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1803,
+        "timestamp": 72.12,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1806,
+        "timestamp": 72.24,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1809,
+        "timestamp": 72.36,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1809,
+        "timestamp": 72.36,
+        "shot_type": "Bounce",
+        "direction": "Left"
+    },
+    {
+        "frame": 1812,
+        "timestamp": 72.48,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1815,
+        "timestamp": 72.6,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1818,
+        "timestamp": 72.72,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1821,
+        "timestamp": 72.84,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1824,
+        "timestamp": 72.96,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1827,
+        "timestamp": 73.08,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1830,
+        "timestamp": 73.2,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1833,
+        "timestamp": 73.32,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1836,
+        "timestamp": 73.44,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1839,
+        "timestamp": 73.56,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1842,
+        "timestamp": 73.68,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1845,
+        "timestamp": 73.8,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1848,
+        "timestamp": 73.92,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1851,
+        "timestamp": 74.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1854,
+        "timestamp": 74.16,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1887,
+        "timestamp": 75.48,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 1890,
+        "timestamp": 75.6,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1893,
+        "timestamp": 75.72,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1896,
+        "timestamp": 75.84,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1899,
+        "timestamp": 75.96,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1902,
+        "timestamp": 76.08,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 1905,
+        "timestamp": 76.2,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1908,
+        "timestamp": 76.32,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1908,
+        "timestamp": 76.32,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1911,
+        "timestamp": 76.44,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1914,
+        "timestamp": 76.56,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1917,
+        "timestamp": 76.68,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1920,
+        "timestamp": 76.8,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1923,
+        "timestamp": 76.92,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1926,
+        "timestamp": 77.04,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1929,
+        "timestamp": 77.16,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1932,
+        "timestamp": 77.28,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1935,
+        "timestamp": 77.4,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1938,
+        "timestamp": 77.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1941,
+        "timestamp": 77.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1944,
+        "timestamp": 77.76,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1947,
+        "timestamp": 77.88,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1950,
+        "timestamp": 78.0,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1953,
+        "timestamp": 78.12,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1956,
+        "timestamp": 78.24,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1959,
+        "timestamp": 78.36,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1959,
+        "timestamp": 78.36,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1962,
+        "timestamp": 78.48,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1965,
+        "timestamp": 78.6,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1971,
+        "timestamp": 78.84,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1974,
+        "timestamp": 78.96,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1977,
+        "timestamp": 79.08,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1980,
+        "timestamp": 79.2,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1980,
+        "timestamp": 79.2,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1983,
+        "timestamp": 79.32,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1983,
+        "timestamp": 79.32,
+        "shot_type": "Bounce",
+        "direction": "Right"
+    },
+    {
+        "frame": 1986,
+        "timestamp": 79.44,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1989,
+        "timestamp": 79.56,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 1992,
+        "timestamp": 79.68,
+        "shot_type": "Backhand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1995,
+        "timestamp": 79.8,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 1998,
+        "timestamp": 79.92,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2001,
+        "timestamp": 80.04,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2004,
+        "timestamp": 80.16,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2007,
+        "timestamp": 80.28,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2010,
+        "timestamp": 80.4,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2013,
+        "timestamp": 80.52,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2016,
+        "timestamp": 80.64,
+        "shot_type": "Forehand",
+        "direction": "Right"
+    },
+    {
+        "frame": 2061,
+        "timestamp": 82.44,
+        "shot_type": "Smash",
+        "direction": "Left"
+    },
+    {
+        "frame": 2064,
+        "timestamp": 82.56,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2067,
+        "timestamp": 82.68,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2070,
+        "timestamp": 82.8,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2076,
+        "timestamp": 83.04,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2079,
+        "timestamp": 83.16,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2082,
+        "timestamp": 83.28,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2085,
+        "timestamp": 83.4,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2088,
+        "timestamp": 83.52,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2091,
+        "timestamp": 83.64,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2094,
+        "timestamp": 83.76,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2097,
+        "timestamp": 83.88,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2100,
+        "timestamp": 84.0,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2130,
+        "timestamp": 85.2,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2133,
+        "timestamp": 85.32,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2136,
+        "timestamp": 85.44,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2139,
+        "timestamp": 85.56,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2142,
+        "timestamp": 85.68,
+        "shot_type": "Forehand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2145,
+        "timestamp": 85.8,
+        "shot_type": "Backhand",
+        "direction": "Left"
+    },
+    {
+        "frame": 2169,
+        "timestamp": 86.76,
+        "shot_type": "Smash",
+        "direction": "Right"
+    },
+    {
+        "frame": 2172,
+        "timestamp": 86.88,
+        "shot_type": "Smash",
+        "direction": "Right"
+    }
+]

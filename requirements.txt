@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+mediapipe
+numpy
+pandas
+matplotlib # 0.10.9
+scipy

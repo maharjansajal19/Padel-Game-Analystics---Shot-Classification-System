@@ -1,0 +1,12 @@
+{
+    "total_shots": 564,
+    "shot_counts": {
+        "Smash": 110,
+        "Backhand": 109,
+        "Forehand": 275,
+        "Bounce": 70
+    },
+    "forehand_pct": 48.8,
+    "backhand_pct": 19.3,
+    "smash_pct": 19.5
+}
